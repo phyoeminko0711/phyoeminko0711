@@ -55,6 +55,13 @@ I'm an Odoo Developer with experience in ERP customization, module development, 
 - Kubernetes & Cloud Infrastructure
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyoeminko0711&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phyoeminko0711&layout=compact)
+
+---
 
 ## 📫 Connect With Me
 
