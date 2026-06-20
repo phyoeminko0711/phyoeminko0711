@@ -56,14 +56,6 @@ I'm an Odoo Developer with experience in ERP customization, module development, 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: phyoeko230@gmail.com, devphyoeminko@gmail.com
