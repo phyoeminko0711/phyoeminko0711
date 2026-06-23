@@ -8,7 +8,7 @@ I'm an Odoo Developer with experience in ERP customization, module development, 
 
 ## 🚀 About Me
 
-- 💼 Senior Odoo Developer at Innovix Solutions
+- 💼 Senior Odoo Developer at GEAAI
 - 🐍 Python Developer with ERP specialization
 - ⚙️ Experienced in Odoo v10–v19
 - 🗄️ PostgreSQL & Database Optimization
